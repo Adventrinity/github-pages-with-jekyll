@@ -1,7 +1,9 @@
 
 layout: post
-title: Heirquarius Blog!
+--
+title: "Heirquarius Blog!"
 date: 2020-09-11
+--
 
 #Welcome
 
